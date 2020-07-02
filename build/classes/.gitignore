@@ -1,0 +1,5 @@
+/controller/
+/entities/
+/hibernate.cfg.xml
+/hibernate.reveng.xml
+/model/
